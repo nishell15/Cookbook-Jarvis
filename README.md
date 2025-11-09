@@ -65,5 +65,4 @@ jarvis_cookbook/
   ├─ vectordb.py         # Chroma (local) or Pinecone (cloud)
   ├─ requirements.txt
   ├─ README.md
-  └─ data/               # put your docs here
-```
+  └─ data/              
